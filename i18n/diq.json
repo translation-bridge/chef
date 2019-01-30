@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mirzali",
+			"Orbot707"
+		]
+	},
+	"tr-distro": "Vılakerdış",
+	"tr-flavor": "Tham",
+	"tr-packages": "Paketi",
+	"tr-problem": "Problem?",
+	"tr-source-code": "Kodê Çımeyi",
+	"tr-help": "Peşti",
+	"tr-settings": "Eyari",
+	"tr-create-image": "Resım vıraze"
+}
