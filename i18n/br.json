@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gwenn-Ael"
+		]
+	},
+	"tr-server-down": "Servijer ehanet",
+	"tr-no-sysupgrade": "N'eus bet ganet restr hizivaat reizhiad ebet, n'eo ket embreget gant ar patrom marteze.",
+	"tr-filesize": "N'eus bet krouet mikromeziant ebet abalamour da vent ar skeudenn. Klaskit en-dro gant nebeutoc'h a bakadoù diuzet.",
+	"tr-unknown-package": "Pakad dianav er reked",
+	"tr-overload": "Gortozit, mar plij, soulgarget eo ar servijer",
+	"tr-buildlog": "Renabl sevel",
+	"tr-advanced": "Araokaet",
+	"tr-building": "Sevel ar mikromeziant.",
+	"tr-initialize-imagebuilder": "Deraouekaat ImageBuilder",
+	"tr-queue-position": "Er steudad sevel emaoc'h",
+	"tr-created": "Skeudenn krouet",
+	"tr-distro": "Dasparzh",
+	"tr-release": "Doare",
+	"tr-model": "Patrom routaer",
+	"tr-start-typing": "Kregiñ da vizskrivañ...",
+	"tr-network-profile": "Profil rouedad",
+	"tr-flavor": "Seurtad",
+	"tr-edit-packages": "Kemm ar pakadoù",
+	"tr-packages": "Pakadoù",
+	"tr-problem": "Ur gudenn ?",
+	"tr-source-code": "Kod mammenn",
+	"tr-help": "Skoazell",
+	"tr-settings": "Arventennoù",
+	"tr-create-image": "Krouiñ ar skeudenn"
+}

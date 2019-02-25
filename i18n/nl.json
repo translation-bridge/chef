@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Elroy"
+		]
+	},
+	"tr-server-down": "De server is buiten werking",
+	"tr-unsupported": "Het apparaat, de uitgave, het doel, het subdoel of het bord wordt niet ondersteund.",
+	"tr-no-sysupgrade": "Kan geen systeemverbeteringsbestand vinden. Mogelijk wordt deze niet door het model ondersteund.",
+	"tr-advanced": "Gevorderd",
+	"tr-release": "Uitgeven",
+	"tr-help": "Hulp",
+	"tr-settings": "Instellingen"
+}
