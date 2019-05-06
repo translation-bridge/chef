@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mirin"
+		]
+	},
+	"tr-advanced": "Altnivela",
+	"tr-distro": "Distribuado",
+	"tr-packages": "Pakaĵoj",
+	"tr-problem": "Ĉu problemo?",
+	"tr-source-code": "Fontkodo",
+	"tr-help": "Helpo",
+	"tr-settings": "Agordoj",
+	"tr-create-image": "Fari Bildon"
+}
