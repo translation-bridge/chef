@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"tr-server-down": "'U server non ge funzione",
+	"tr-unsupported": "Modelle d'u router o versione non supportate.",
+	"tr-no-sysupgrade": "'U file sysupgrade non g'ha state ccrejate, pò essere non 'ngluse 'mbrà le file ccrejate pe stu router.",
+	"tr-filesize": "Dimenzione d'u file oltre 'u limite de memorie d'u router. Pruève arrete scacchianne mene pacchette.",
+	"tr-unknown-package": "'Nu pacchette jndr'à richieste jè scanusciute",
+	"tr-overload": "Aspitte, 'u server ste careche a ciucce",
+	"tr-buildlog": "Archivije de le combilaziune",
+	"tr-advanced": "Avanzate",
+	"tr-building": "Stoche a ccreje 'u firmware.",
+	"tr-initialize-imagebuilder": "Stoche a inizializze l'ImageBuilder",
+	"tr-queue-position": "'A posiziona toje jndr'à l'elenghe de attese jè",
+	"tr-created": "Immaggine ccrejate",
+	"tr-distro": "Distribbuzzione",
+	"tr-release": "Relasce",
+	"tr-model": "Modelle d'u router",
+	"tr-start-typing": "Accuminze a scrivere...",
+	"tr-network-profile": "Profile de rezze",
+	"tr-flavor": "Collezzione de pacchette",
+	"tr-edit-packages": "Cange le pacchette",
+	"tr-packages": "Pacchette",
+	"tr-problem": "Probbleme?",
+	"tr-source-code": "Code sorgende",
+	"tr-help": "Aijute",
+	"tr-settings": "'Mbostaziune",
+	"tr-create-image": "Ccreje l'immaggine"
+}
