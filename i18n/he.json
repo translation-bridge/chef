@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Erelon",
+			"YaronSh"
+		]
+	},
+	"tr-server-down": "שרת לא זמין",
+	"tr-unknown-package": "חבילה לא ידועה נתבקשה",
+	"tr-overload": "נא להמתין, השרת עמוס",
+	"tr-advanced": "מתקדם",
+	"tr-network-profile": "פרופיל רשת",
+	"tr-edit-packages": "עריכת חבילות",
+	"tr-packages": "חבילות",
+	"tr-problem": "בעיה?",
+	"tr-source-code": "קוד מקור",
+	"tr-help": "עזרה",
+	"tr-settings": "הגדרות"
+}
