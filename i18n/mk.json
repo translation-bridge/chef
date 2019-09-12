@@ -1,14 +1,21 @@
 {
 	"@metadata": {
 		"authors": [
-			"Bjankuloski06"
+			"Bjankuloski06",
+			"Vlad5250"
 		]
 	},
+	"tr-advanced": "Напредно",
+	"tr-created": "Слика создадена",
+	"tr-distro": "Распределба",
+	"tr-release": "Издание",
 	"tr-network-profile": "Мрежен профил",
 	"tr-flavor": "Обликување",
 	"tr-edit-packages": "Уреди пакети",
 	"tr-packages": "Пакети",
 	"tr-problem": "Проблем?",
 	"tr-source-code": "Изворен код",
-	"tr-help": "Помош"
+	"tr-help": "Помош",
+	"tr-settings": "Поставки",
+	"tr-create-image": "Создај слика"
 }
