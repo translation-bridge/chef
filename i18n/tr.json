@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Hedda"
+			"Hedda",
+			"Grkn gll"
 		]
 	},
 	"tr-server-down": "Sunucu çökmesi",
@@ -10,7 +11,7 @@
 	"tr-filesize": "Görüntü boyutu nedeniyle ürün yazılımı oluşturulmadı. Seçilen daha az paketle tekrar deneyin.",
 	"tr-unknown-package": "İstekte bilinmeyen paket",
 	"tr-overload": "Lütfen bekleyin, sunucu aşırı yüklü",
-	"tr-buildlog": "Log oluştur",
+	"tr-buildlog": "Günlük oluştur",
 	"tr-advanced": "Gelişmiş",
 	"tr-building": "Yazılım oluşturma.",
 	"tr-initialize-imagebuilder": "ImageBuilder başlatılıyor",
@@ -19,7 +20,7 @@
 	"tr-distro": "Dağıtım",
 	"tr-release": "Sürüm",
 	"tr-model": "Yönlendirici modeli",
-	"tr-start-typing": "Yazmaya başla...",
+	"tr-start-typing": "Yazmaya başlayın...",
 	"tr-network-profile": "Ağ profili",
 	"tr-flavor": "Flavor",
 	"tr-edit-packages": "Paketleri düzenle",
