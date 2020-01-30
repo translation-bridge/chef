@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Hedda",
-			"Grkn gll"
+			"Grkn gll",
+			"BaRaN6161 TURK"
 		]
 	},
 	"tr-server-down": "Sunucu çökmesi",
@@ -21,13 +22,13 @@
 	"tr-release": "Sürüm",
 	"tr-model": "Yönlendirici modeli",
 	"tr-start-typing": "Yazmaya başlayın...",
-	"tr-network-profile": "Ağ profili",
-	"tr-flavor": "Flavor",
+	"tr-network-profile": "Ağ Profili",
+	"tr-flavor": "Lezzet",
 	"tr-edit-packages": "Paketleri düzenle",
 	"tr-packages": "Paketler",
 	"tr-problem": "Problem mi var?",
 	"tr-source-code": "Kaynak Kodu",
 	"tr-help": "Yardım",
 	"tr-settings": "Ayarlar",
-	"tr-create-image": "Resim oluştur"
+	"tr-create-image": "Resim Oluştur"
 }
