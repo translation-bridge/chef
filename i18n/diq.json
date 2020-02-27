@@ -2,13 +2,21 @@
 	"@metadata": {
 		"authors": [
 			"Mirzali",
-			"Orbot707"
+			"Orbot707",
+			"1917 Ekim Devrimi"
 		]
 	},
 	"tr-server-down": "Server kewt",
+	"tr-unsupported": "Nêpheştiyaye cihaz, revizyon, hedef, bın hedef ya zi pano.",
+	"tr-buildlog": "Roceke vıraze",
 	"tr-advanced": "Raverşiyaye",
+	"tr-created": "Resım vıraziya",
 	"tr-distro": "Vılakerdış",
+	"tr-release": "Ramate",
+	"tr-model": "Modelê hetenoği",
+	"tr-network-profile": "Profilê tore",
 	"tr-flavor": "Tham",
+	"tr-edit-packages": "Paketa bıvurne",
 	"tr-packages": "Paketi",
 	"tr-problem": "Problem?",
 	"tr-source-code": "Kodê Çımeyi",
