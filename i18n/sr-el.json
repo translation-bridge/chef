@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"tr-overload": "Sačekajte, server je preopterećen",
 	"tr-advanced": "Napredno",
 	"tr-created": "Napravljeno slika",
