@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"Fulup",
 			"Gwenn-Ael"
 		]
 	},
 	"tr-server-down": "Servijer ehanet",
+	"tr-unsupported": "Ardivink, stummn bukad, isvukad pe taolenn anskoret.",
 	"tr-no-sysupgrade": "N'eus bet ganet restr hizivaat reizhiad ebet, n'eo ket embreget gant ar patrom marteze.",
 	"tr-filesize": "N'eus bet krouet mikromeziant ebet abalamour da vent ar skeudenn. Klaskit en-dro gant nebeutoc'h a bakadoù diuzet.",
 	"tr-unknown-package": "Pakad dianav er reked",
