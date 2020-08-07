@@ -6,6 +6,8 @@
 		]
 	},
 	"tr-server-down": "Palvelin alhaalla",
+	"tr-overload": "Odota, palvelin on ylikuormittunut",
+	"tr-advanced": "Laajennettu",
 	"tr-edit-packages": "Muokkaa paketteja",
 	"tr-packages": "Paketit",
 	"tr-problem": "Ongelma?",
