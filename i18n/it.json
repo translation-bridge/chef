@@ -12,7 +12,7 @@
 	"tr-unknown-package": "Un pacchetto richiesto è inesistente/sconosciuto",
 	"tr-overload": "Il server è sovraccarico, prego attendere",
 	"tr-buildlog": "Registro dei messaggi di compilazione",
-	"tr-advanced": "Modalità avanzata",
+	"tr-advanced": "Avanzate",
 	"tr-building": "Creando il firmware.",
 	"tr-initialize-imagebuilder": "Preparando l'ambiente di compilazione",
 	"tr-queue-position": "La tua posizione nella lista d'attesa è",
